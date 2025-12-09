@@ -1,3 +1,5 @@
 this is a test repo for the git commit 
 this commit from the branch first
 A added new feature for the application
+
+git commit confict 
