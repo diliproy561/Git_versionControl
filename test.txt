@@ -6,4 +6,4 @@ git commit
 this is a test repo for the git commit . this commit from the branch second.
 git commit conflict .. i need some time to understand the marge 
 
-second test 
+second test ---- this is a main branch
